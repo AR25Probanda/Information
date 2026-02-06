@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sponsor: @its_ar-here on YouTube</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; background-color: #f4f4f4; margin: 0; padding: 20px; }
+        .container { max-width: 800px; margin: auto; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        h1 { color: #ff0000; } /* YouTube red */
+        iframe { width: 100%; height: 400px; border: none; }
+        .subscribe-btn { display: inline-block; background: #ff0000; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-top: 20px; }
+        .subscribe-btn:hover { background: #cc0000; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to the Official Sponsor Page for @its_ar-here!</h1>
+        <p>Check out amazing content on YouTube. Subscribe now and never miss an update!</p>
+        
+        <!-- Embedded YouTube Video (replace with a real video ID from the channel) -->
+        <iframe src="https://www.youtube.com/embed/[YOUR_VIDEO_ID]?autoplay=0" allowfullscreen></iframe>
+        
+        <!-- Subscribe Button -->
+        <a href="https://youtube.com/@its_ar-here?si=0RFkafEbEWvN73QW" class="subscribe-btn" target="_blank">Subscribe to @its_ar-here</a>
+        
+        <p>Thank you for supporting this channel! Share this page to help spread the word.</p>
+    </div>
+</body>
+</html>
